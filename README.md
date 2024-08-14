@@ -4,6 +4,6 @@
 ## About me
 
 - 👀 I’m interested in Golang, Python, ML and AI.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
